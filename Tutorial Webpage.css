@@ -1,0 +1,57 @@
+body {
+    padding-bottom: 5em;
+    margin-bottom: 5em;
+}
+
+.row {
+    margin: 0% 10% 0% 10%;
+}
+
+header {
+    background-image: url(./Assets/Header\ Photo.jpg);
+    width: 100%;
+    color: #FFEB3B;
+}
+
+.display-4 {
+    color: skyblue;
+}
+
+.btn, .btn-primary, .btn-lg {
+    background: skyblue !important;
+    border: 1px lightskyblue !important;
+    color: white !important;
+}
+
+.btn-lg:hover, .btn:hover {
+    color: skyblue !important;
+    background: white !important;
+}
+
+.dropdown-item {
+    width: 50% !important;
+    height: 55% !important;
+}
+
+.navbar-brand, .nav-link {
+    color: skyblue !important;
+}
+
+.navbar-brand:hover, .nav-link:hover {
+    color: rgb(108, 206, 141) !important;
+}
+
+#footer {    
+    float:none !important;
+    margin:0 auto !important;
+    display: inline-block !important;
+    text-align: center !important;
+}
+
+.navbar {
+    text-align: center !important;
+}
+
+.navbar-brand1:hover {
+    color: rgb(108, 206, 141) !important;
+}
